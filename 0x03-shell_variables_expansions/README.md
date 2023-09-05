@@ -1,0 +1,1 @@
+My shell Variables expansions
